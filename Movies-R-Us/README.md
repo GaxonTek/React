@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/GaxonTek/React/Movies-R-Us/tree/master/Readme">
-    <img src="Movies-R-Us/Readme/Movies_R-Us.png" alt="Logo" width="250" height="250">
+    <img src="/Readme/Movies_R-Us.png" alt="Logo" width="250" height="250">
   </a>
   <h2 align="center">Movies R-Us Webapp</h2>
   <h3 align="center">CPSC 471 Project</h3>
