@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/GaxonTek/React/Movies-R-Us/tree/main/Readme">
+  <a href="https://github.com/GaxonTek/React/Movies-R-Us/Readme">
     <img src="/Readme/Movies_R-Us.png" alt="Logo" width="250" height="250">
   </a>
   <h2 align="center">Movies R-Us Webapp</h2>
