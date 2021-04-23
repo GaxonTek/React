@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/GaxonTek/React/blob/master/Movies-R-Us/README.md">
-    <img src="/Readme/Movies_R-Us.png" alt="Logo" width="250" height="250">
+    <img src="https://github.com/GaxonTek/React/blob/master/Movies-R-Us/Readme/Movies_R-Us.png" alt="Logo" width="250" height="250">
   </a>
   <h2 align="center">Movies R-Us Webapp</h2>
   <h3 align="center">CPSC 471 Project</h3>
@@ -10,8 +10,8 @@
 
 <!-- ABOUT THE PROJECT -->
 <p align="center">
-  <a href="https://github.com/Fernak/Movies-R-Us/tree/main/Readme">
-    <img src="/Readme/homepage.png" alt="Logo" width="100%" height="25%">
+  <a href="https://github.com/GaxonTek/React/blob/master/Movies-R-Us/README.md">
+    <img src="https://github.com/GaxonTek/React/blob/master/Movies-R-Us/Readme/homepage.png" alt="Logo" width="100%" height="25%">
   </a>
 </p>
 <p align="center">
